@@ -8,14 +8,16 @@ Preguntas:
 1. ¿Qué es el hipertexto? (valor 1.0)
 
 2. ¿Qué es la hipermedia? (valor 1.0)
+ R: Enlaces que contienen audio, video e imagenes.
 
-3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
+3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0) R: Trabaja de forma jerarquica
 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
-
-5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
+R: Tiene la ventaja de estructurar la pagina.
+5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0) R: Hace el trabajo de ponerle color a la pagina
 
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
+ R: Editor de textos
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
@@ -24,20 +26,24 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 
 Preguntas:
 
-1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
+1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0) R: copiar, pegar, 
 
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
+R: 1. Vscode
+   2. Word
+   3. Bloc de notas
 
-3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
+3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0) R: .html
 
-4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
+4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0) 
+R: .css
 
-5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
+5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0) R: .jpg , .png , .gif
 
 6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
 a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
-referente a los estilos (CSS), etc. (valor 1.0)
+referente a los estilos (CSS), etc. (valor 1.0) R: a) Cierto
 
         a) Cierto
         b) Falso
@@ -48,10 +54,10 @@ Objetivo: Verificar el dominio del concepto de web semántica y su estructura.
 Indicaciones: Pedir responder o seleccionar la respuesta correcta según sea el caso.
 Preguntas:
 
-1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
+1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6) R: 
 
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
-a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
+R: a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
 etiqueta
 
         a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
@@ -63,26 +69,30 @@ etiqueta
   
 3. ¿Qué elemento se utiliza para diferenciar el contenido de una página web del
 material en el que se encuentra (como una barra lateral)? (valor 0.3)
-  
+  R: d) aside
         a) header
         b) footer
         c) nav
         d) aside
   
-4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
+4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3) R: c) time
   
         a) mark
         b) article
         c) time
         d) span
   
-5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
+5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente?
+ (valor 1.5)
+ article: cambia el tema del contenido principal de la pagina
+ 
+ 
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
   
            
-        1. <img "birthday.jpg">
+        1. <img "birthday.jpg"> -> No esta cerrando el elemento -> 
         2. <i>Congratulations!<i>
         3. <a href="file.html">Enlace de texto</a href="file.html">
         4. <p>Esto es un párrafo<\p>
@@ -102,20 +112,20 @@ consideren correcta.
     
 Preguntas:
     
-1. ¿Qué significa HTML? (valor 0.24)
+1. ¿Qué significa HTML? (valor 0.24) R: b) Hyperlinks and Text Markup Lenguage
     
         a) Home Tool Markup Language
         b) Hyperlinks and Text Markup Language
         c) Hyper Text Markup Language
     
-2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
+2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24) R: d) h1
     
         a) heading
         b) hed
         c) h6
         d) h1
     
-3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
+3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24) R: b) br
 
         a) lb
         b) br
@@ -148,7 +158,7 @@ Preguntas:
         d) <a url=”https://adip.cdmx.gob.mx">ADIP</a>
   
   
-8. ¿Cómo puedes abrir un enlace en una nueva pestaña/ventana del navegador? (valor 0.24)
+8. ¿Cómo puedes abrir un enlace en una nueva pestaña/ventana del navegador? (valor 0.24) R: b) <a href="url" target="_blank">
   
         a) <a href="url" target="new">
         b) <a href="url" target="_blank">
@@ -167,7 +177,7 @@ Preguntas:
           b) Falso
     
   
-11. ¿Cómo puedes hacer una lista numerada? (valor 0.24)
+11. ¿Cómo puedes hacer una lista numerada? (valor 0.24) R: b) ol
   
           a) list
           b) ol
@@ -181,7 +191,7 @@ Preguntas:
           c) list
           d) dl
   
-13. ¿Cuál es el HTML correcto para hacer una casilla de verificación (checkbox )? (valor 0.24)
+13. ¿Cuál es el HTML correcto para hacer una casilla de verificación (checkbox )? (valor 0.24) R:  d) <input type="checkbox">  
   
           a) input type="check"
           b) check
@@ -208,7 +218,7 @@ Preguntas:
           b) input type="textarea"
           c) textarea
   
-17. ¿Cuál es el HTML correcto para insertar una imagen? (valor 0.24
+17. ¿Cuál es el HTML correcto para insertar una imagen? (valor 0.24) R:  a) <img src="image.gif" alt="Mi imagen">
   
           a) <img src="image.gif" alt="Mi imagen">
           b) <img href="image.gif" alt="Mi imagen">
@@ -231,7 +241,7 @@ Preguntas:
         a) Verdadero
         b) Falso
   
-21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
+21. ¿Qué elemento HTML define el título de un documento? (valor 0.24) R: b) head
   
         a) title
         b) head
@@ -244,20 +254,20 @@ Preguntas:
         c) alt
         d) title
   
-23. ¿Qué tipo de documento es correcto para HTML5? (valor 0.24)
+23. ¿Qué tipo de documento es correcto para HTML5? (valor 0.24) R:  a) <!DOCTYPE html>
   
         a) <!DOCTYPE html>
         b) <!DOCTYPE HTML5>
   
 c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5/strict.dtd\">
   
-24.¿Qué elemento HTML se usa para especificar un pie de página para un documentoo sección? (valor 0.24)
+24.¿Qué elemento HTML se usa para especificar un pie de página para un documentoo sección? (valor 0.24) R: b) footer
   
         a) bottom
         b) footer
         c) section
   
-25. ¿Cuál es el elemento HTML correcto para reproducir archivos de video? (valor 0.24)
+25. ¿Cuál es el elemento HTML correcto para reproducir archivos de video? (valor 0.24) R:  b) media
   
         a) video
         b) media

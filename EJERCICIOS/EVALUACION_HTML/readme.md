@@ -295,3 +295,61 @@ extensión .html
 ● No es necesario que incluyas los estilos (CSS) para cada elemento en esta
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
+ 
+
+     <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Evaluación HTML</title>
+    </head>
+
+    <body>
+        <header>
+            <h1> Encabezado Nivel 1</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Enlace 1</a></li>
+                    <li><a href="#">Enlace 2</a></li>
+                    <li><a href="#">Enlace 3</a></li>
+                    <li><a href="#">Enlace 4</a></li>
+              </ul>
+
+            </nav>
+
+        </header>
+
+        <main>
+            <section>
+                <h3>Encabezado nivel 2</h3>
+                <p>Aquí va texto del primer párrafo.</p>
+                <p>Aquí va texto del segundo párrafo.</p>
+
+            </section>
+            <aside>
+                <h3>Apartado</h3>
+                <p>Elije una opción</p>
+                <form action="">
+                   <label> <input type="radio" name="opción"> Opción 1 </label> <br>
+                   <label> <input type="radio" name="opción"> Opción 2 </label> <br>
+                   <label> <input type="radio" name="opción"> Opción 3 </label> <br>
+                      <br>  
+                    <input type="submit"> 
+
+
+
+                </form>
+            </aside>
+
+
+        </main>
+
+        <footer>
+            <p>Sección de información de contacto, derechos de autor, etc.</p>
+
+
+        </footer>
+    </body>
+    </html>

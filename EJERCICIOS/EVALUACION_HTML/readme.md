@@ -138,7 +138,7 @@ Preguntas:
         b) br
         c) break
 
-4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24)
+4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24) R:c) <body style="background-color:yellow;"> 
 
         a) <background>yellow</background>
         b) <body bg="yellow">
